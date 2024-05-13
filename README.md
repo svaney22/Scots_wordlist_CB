@@ -1,0 +1,2 @@
+File contains a wordlist of Scots lexis and words containing Scots orthography, and their anglicised equivalents. These were used as search tokens to quantitatively and statistically explore the digisited chapbooks collection
+provided by the National Library of Scotland's Data Foundry. Some words occurred in multiple forms (multiple spellings) and so are included twice. Words or spellings that had no English equivalent are coded as NULL.
